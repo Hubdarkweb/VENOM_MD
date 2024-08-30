@@ -7,7 +7,7 @@
     <img alt="wasi" height="300" src="https://telegra.ph/file/478c2641e9bcf0ecfd139.jpg">
  
          
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝐕𝐄𝐍𝐎𝐌_𝐌𝐃+𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝐇𝐀𝐌𝐌𝐘)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝐕𝐄𝐍𝐎𝐌_𝐌𝐃+𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+🗽🥷🕷️📱🕷️☣️🏴‍☠️🕸️🕷️TOpPLUG)](https://git.io/typing-svg)
 
   </a>
 </p>
@@ -22,8 +22,7 @@
 </p>
 
 @@ -0,0 +1,30 @@
-## REPOSITORY IS ON MAINTENANCE ⛑ IT WILL BE RELEASED SOON .THANKS FOR TRUSTING SCENE-MD 
-
+##
 
 ✅ CONTACT THE OWNER ON WHATSAPP 
 <a 
@@ -43,7 +42,9 @@ href="https://wa.me/254112386921"><img src="https://img.shields.io/badge/Contact
 <p align="center">
 
   ✅ I'M AFRAID OF BUGS 🐛 
-<img alt="Development" width="150" src="https://media2.giphy.com/media/W9tBvzTXkQopi/giphy.gif?cid=6c09b952xu6syi1fyqfyc04wcfk0qvqe8fd7sop136zxfjyn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" /> </p>
+
+  
+<img alt="Development" width="230" src="https://media2.giphy.com/media/W9tBvzTXkQopi/giphy.gif?cid=6c09b952xu6syi1fyqfyc04wcfk0qvqe8fd7sop136zxfjyn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" /> </p>
 
 
 
@@ -51,7 +52,7 @@ href="https://wa.me/254112386921"><img src="https://img.shields.io/badge/Contact
 
 
 
-©BELTAH-MD.2024
+©🗽TOpPLUG☣️🥷🗽🕷️📱🕷️-MD.2024
 
 #### SETUP
 
