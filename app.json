@@ -1,7 +1,7 @@
 {
   "name": "VENOM_MD",
   "description": "Simple WhatsApp Bot",
-  "logo": "https://github.com/Hammy254/VENOM_MD/blob/main/lib/assets/logo.png?raw=true",
+  "logo": "https://github.com/Hubdarkweb/VENOM_MD/blob/main/lib/assets/logo.png?raw=true",
   "keywords": ["VENOM MD", "VENOM", "VENOM md","VENOM_MD","Venom","Venom md"],
   "success_url": "/",
   "stack": "container",
@@ -9,7 +9,7 @@
   "env": {
     "OWNER_NAME": {
       "description": "Name for Bot Owner",
-      "value": "𝐇𝐀𝐌𝐌𝐘",
+      "value": "🕷️📱🕷️🥷☣️🗽🏴‍☠️🕸️TOpPLUG",
       "required": true
     },
 
@@ -27,7 +27,7 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required": false,
-      "value": "𝐕𝐄𝐍𝐎𝐌_𝐌𝐃"
+      "value": "𝐕𝐄𝐍𝐎𝐌_𝐌𝐃🕷️📱🕷️🥷☣️🕸️🏴‍☠️"
     },
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
@@ -67,7 +67,7 @@
     "USER_IMAGES": {
       "description": "Insert your bot image url here",
       "required": false,
-      "value": "https://telegra.ph/file/da2669bc8a17745835d32.jpg"
+      "value": ""
     },
     "AUTO_READ_STATUS": {
       "description": "Fill the value true if you want bot view your Statuses.",
