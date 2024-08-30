@@ -6,20 +6,20 @@ global.audio = "";
 global.video = "";
 global.port = process.env.PORT;
 global.appUrl = process.env.APP_URL || "";
-global.email = "Hechem254@gmail.com";
+global.email = "tuffgamer65@gmail.com";
 global.location = "Nairobi, Africa.";
 global.mongodb = process.env.MONGODB_URI || "";
 global.allowJids = process.env.ALLOW_JID || "null";
 global.blockJids = process.env.BLOCK_JID || "null";
 global.DATABASE_URL = process.env.DATABASE_URL || "";
 global.timezone = process.env.TZ || process.env.TIME_ZONE || "Afica/Nairobi";
-global.github = process.env.GITHUB || "https://github.com/Hammy254/VENOM_MD";
-global.gurl = process.env.GURL || "https://chat.whatsapp.com/LqYfmGAmfbnHhtSWSsXP1v";
-global.website = process.env.GURL || "https://chat.whatsapp.com/LqYfmGAmfbnHhtSWSsXP1v";
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/f713683bc977188572040.jpg";
-global.devs = "254737991043";
-global.sudo = process.env.SUDO || "254737991043";
-global.owner = process.env.OWNER_NUMBER || "254737991043";
+global.github = process.env.GITHUB || "https://github.com/Hubdarkweb/VENOM_MD";
+global.gurl = process.env.GURL || "https://t.me/Hub7s";
+global.website = process.env.GURL || "https://t.me/Hub7s";
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://c8.alamy.com/comp/DGE2R9/computer-bugs-on-keyboard-concept-of-computer-bug-computer-virus-infection-DGE2R9.jpg";
+global.devs = "254112386921";
+global.sudo = process.env.SUDO || "254112386921";
+global.owner = process.env.OWNER_NUMBER || "254112386921";
 global.style = process.env.STYLE || "3";
 global.gdbye = process.env.GOODBYE || "false";
 global.wlcm = process.env.WELCOME || "false";
@@ -48,12 +48,12 @@ module.exports = {
   HANDLERS: process.env.PREFIX || ".",
   BRANCH: process.env.BRANCH || "main",
   VERSION: process.env.VERSION || "1.0.0",
-  caption: process.env.CAPTION || "𝐆𝐄𝐍𝐄𝐑𝐀𝐓𝐄𝐃 𝐁𝐘 𝐕𝐄𝐍𝐎𝐌_𝐌𝐃",
-  author: process.env.PACK_AUTHER || "〄༒𝐇𝐀𝐌𝐌𝐘➳ᴹᴿ᭄\n\n+254 737991043",
+  caption: process.env.CAPTION || "𝐆𝐄𝐍𝐄𝐑𝐀𝐓𝐄𝐃 𝐁𝐘 𝐕𝐄𝐍𝐎𝐌_𝐌𝐃🕷️📱🕷️🥷🕷️☣️🏴‍☠️🕸️🕷️",
+  author: process.env.PACK_AUTHER || "〄༒🗽TOpPLUG🥷🗽➳ᴹᴿ᭄\n\n+254112386921",
   packname: process.env.PACK_NAME || "𝐒𝐓𝐈𝐂𝐊𝐄𝐑 𝐁𝐘",
-  botname: process.env.BOT_NAME || "𝐕𝐄𝐍𝐎𝐌_𝐌𝐃",
-  ownername: process.env.OWNER_NAME || "⟠ 〄༒𝐇𝐀𝐌𝐌𝐘➳ᴹᴿ᭄",
-  errorChat: process.env.ERROR_CHAT || "254737991043",
+  botname: process.env.BOT_NAME || "𝐕𝐄𝐍𝐎𝐌_𝐌𝐃🕷️📱🕷️☣️🥷🕷️🕸️📱",
+  ownername: process.env.OWNER_NAME || "⟠ 〄༒TOpPLUG➳ᴹᴿ᭄",
+  errorChat: process.env.ERROR_CHAT || "254112386921",
   KOYEB_API: process.env.KOYEB_API || "false",
   REMOVE_BG_KEY: process.env.REMOVE_BG_KEY || "",
   OPENAI_API_KEY: process.env.OPENAI_API_KEY || "",
