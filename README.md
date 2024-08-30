@@ -26,7 +26,7 @@
 
 ✅ CONTACT THE OWNER ON WHATSAPP 
 <a 
-href="https://wa.me/254112386921"><img src="https://img.shields.io/badge/Contact Beltah Tech-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+href="https://wa.me/254112386921"><img src="https://img.shields.io/badge/Contact 🗽🥷📱☣️🏴‍☠️🕸️🕷️📱🕷️🗽🥷TOpPLUG?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 
 ✅ FOLLOW OUR OFFICIAL TELEGRAM CHANNEL
 
@@ -34,7 +34,7 @@ href="https://wa.me/254112386921"><img src="https://img.shields.io/badge/Contact
 
 ✅JOIN OUR PUBLIC CHAT GROUP 
 
-<a href="https://chat.whatsapp.com/CQvUnqaDK4fBjgMXvFEAsI"><img src="https://img.shields.io/badge/Join Our Group chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://t.me/+2B9EIdEQ7JIyNTE0"><img src="https://img.shields.io/badge/Join Our Group chat-25D366?style=for-the-badge&logo=Telegram&logoColor=white" />
 
 ✅ SUBSCRIBE ON MY YOUTUBE CHANNEL 
 
