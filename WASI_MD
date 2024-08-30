@@ -1,7 +1,7 @@
-FROM quay.io/sampandey001/secktor
-RUN git clone https://github.com/Hammy254/VENOM_MD/root/Itxxwasi
+FROM quay.io/🗽🥷🏴‍☠️🕸️☣️🕷️📱/TOpPLUG
+RUN git clone https://github.com/Hubdarkweb/VENOM_MD.git /root/Itxxwasi
 WORKDIR /root/Itxxwasi
 RUN npm install
 EXPOSE 8000
 CMD ["npm","start" ] 
-# POWERD BY VENOM MD
+# POWERD BY VENOM MD🗽TOpPLUG🗽🥷🕷️📱🕷️🕸️🏴‍☠️☣️🥷
