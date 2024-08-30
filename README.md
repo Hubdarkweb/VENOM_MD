@@ -47,7 +47,10 @@ href="https://wa.me/254112386921"><img src="https://img.shields.io/badge/Contact
 <img alt="Development" width="300" src="https://media2.giphy.com/media/W9tBvzTXkQopi/giphy.gif?cid=6c09b952xu6syi1fyqfyc04wcfk0qvqe8fd7sop136zxfjyn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" /> </p>
 
 
-
+<p align="center">  
+  <a href="https://t.me/Hub7s">
+    <img alt="wasi" height="300" src="https://media2.giphy.com/media/W9tBvzTXkQopi/giphy.gif?cid=6c09b952xu6syi1fyqfyc04wcfk0qvqe8fd7sop136zxfjyn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
+ 
 
 
 
