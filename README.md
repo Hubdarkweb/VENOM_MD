@@ -3,7 +3,7 @@
  
 
 <p align="center">  
-  <a href="https://whatsapp.com/channel/0029Vagq4pN9hXEy6SpCDi0X">
+  <a href="https://t.me/Hub7s">
     <img alt="wasi" height="300" src="https://telegra.ph/file/478c2641e9bcf0ecfd139.jpg">
  
          
