@@ -15,5 +15,5 @@ const start = async () => {
 }
 start();
 /**
-VENOM MD WHATSAPPP BOT
+VENOM MD 🕷️📱🕷️☣️🏴‍☠️🕷️🕸️📱🕷️🕸️☣️🥷🏴‍☠️WHATSAPPP BOT
 **/
