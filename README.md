@@ -12,22 +12,52 @@
   </a>
 </p>
 <p align="center">
-<a href="https://github.com/Hammy254"><img title="Author" src="https://img.shields.io/badge/Hammy254-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029Vagq4pN9hXEy6SpCDi0X"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/25437991043"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://t.me/Hub7s"><img title="Author" src="https://img.shields.io/badge/🗽🥷🏴‍☠️🕸️☣️🕷️📱🕷️🕷️-black?style=for-the-badge&logo=Github"></a> <a href="https://t.me/Hub7s"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/0112386921"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
 <p/>
 <p align="center">
-<a href="https://github.com/Hammy254?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Hammy254?label=Followers&style=social"></a>
-<a href="https://github.com/Hammy254/VENOM_MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Hammy254/VENOM_MD?&style=social"></a>
-<a href="https://github.com/Hammy254/VENOM_MD/network/members"><img title="Fork" src="https://img.shields.io/github/forks/Hammy254/VENOM_MD?style=social"></a>
-<a href="https://github.com/Hammy254/VENOM_MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Hammy254/VENOM_MD?label=Watching&style=social"></a>
+<a href="https://github.com/Hubdarkweb/VENOM_MD.git?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/🥷🏴‍☠️🕸️☣️🕷️📱🕷️?label=Followers&style=social"></a>
+<a href="https://github.com/Hubdarkweb/VENOM_MD.git/VENOM_MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/🥷🏴‍☠️🕸️☣️🕷️📱🕷️/VENOM_MD?&style=social"></a>
+<a href="https://github.com/Hubdarkweb/VENOM_MD.git/VENOM_MD/network/members"><img title="Fork" src="https://img.shields.io/github/forks/🥷🏴‍☠️🕸️☣️🕷️📱🕷️/VENOM_MD?style=social"></a>
+<a href="https://github.com/Hubdarkweb/VENOM_MD.git"><img title="Watching" src="https://img.shields.io/github/watchers/🗽🥷🏴‍☠️🕸️☣️🕷️📱🕷️/VENOM_MD?label=Watching&style=social"></a>
 </p>
 
+@@ -0,0 +1,30 @@
+## REPOSITORY IS ON MAINTENANCE ⛑ IT WILL BE RELEASED SOON .THANKS FOR TRUSTING SCENE-MD 
 
+
+✅ CONTACT THE OWNER ON WHATSAPP 
+<a 
+href="https://wa.me/254112386921"><img src="https://img.shields.io/badge/Contact Beltah Tech-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+
+✅ FOLLOW OUR OFFICIAL TELEGRAM CHANNEL
+
+<a href="https://t.me/Hub7s"><img src="https://img.shields.io/badge/Follow Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+
+✅JOIN OUR PUBLIC CHAT GROUP 
+
+<a href="https://chat.whatsapp.com/CQvUnqaDK4fBjgMXvFEAsI"><img src="https://img.shields.io/badge/Join Our Group chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+
+✅ SUBSCRIBE ON MY YOUTUBE CHANNEL 
+
+<a href="https://www.youtube.com/@cyberpunk.joker"><img src="https://img.shields.io/badge/Subscribe-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/@cyberpunk.joker" /><br>
+<p align="center">
+
+  ✅ I'M AFRAID OF BUGS 🐛 
+<img alt="Development" width="270" src="https://media2.giphy.com/media/W9tBvzTXkQopi/giphy.gif?cid=6c09b952xu6syi1fyqfyc04wcfk0qvqe8fd7sop136zxfjyn&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" /> </p>
+
+
+
+
+
+
+
+©BELTAH-MD.2024
 
 #### SETUP
 
 1.𝔽𝕠𝕣𝕜 𝕥𝕙𝕖 𝕣𝕖𝕡𝕠
     <br>
-<a href='https://github.com/Hammy254/VENOM_MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=green'/></a>
+<a href='https://github.com/Hubdarkweb/VENOM_MD.git/VENOM_MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=green'/></a>
 
 
 
@@ -42,13 +72,13 @@
 
 
 #### 𝕕𝕖𝕡𝕝𝕠𝕪𝕞𝕖𝕟𝕥 𝕤𝕖𝕔𝕥𝕚𝕠𝕟
-# <a href="https://dashboard.heroku.com/new?template=https://github.com/Hammy254/VENOM_MD"><img title="heroku" src="https://img.shields.io/badge/DEPLOY ON HEROKU-h?color=green&style=for-the-badge&logo=msi"></a>
+# <a href="https://dashboard.heroku.com/new?template=https://github.com/Hubdarkweb/VENOM_MD"><img title="heroku" src="https://img.shields.io/badge/DEPLOY ON HEROKU-h?color=green&style=for-the-badge&logo=msi"></a>
 # <a href="https://railway.app/template/tM2McB?referralCode=v7Xehd"><img title="railway" src="https://img.shields.io/badge/DEPLOY ON RAILWAY-h?color=green&style=for-the-badge&logo=msi"></a>
-# <a href="(https://replit.com/github/Hammy254/VENOM_MD"><img title="raplir" src="https://img.shields.io/badge/RAPLIT-h?color=green&style=for-the-badge&logo=msi"></a>
+# <a href="(https://replit.com/github/Hubdarkweb/VENOM_MD"><img title="raplir" src="https://img.shields.io/badge/RAPLIT-h?color=green&style=for-the-badge&logo=msi"></a>
 # <a href="https://wasimd-9dedcea2edba.herokuapp.com/"><img title="koyeb" src="https://img.shields.io/badge/DEPLOY ON KYOEB-h?color=green&style=for-the-badge&logo=msi"></a>
 
 
-### 𝕋ℍ𝔸ℕ𝕂𝕊 𝕋𝕆 〄༒𝐇𝐀𝐌𝐌𝐘➳ᴹᴿ᭄
+### 𝕋ℍ𝔸ℕ𝕂𝕊 𝕋𝕆 🗽🥷〄༒🗽🥷🏴‍☠️🕸️☣️🕷️📱🕷️☣️🥷🗽➳ᴹᴿ᭄🥷🗽
 
 
 
