@@ -67,7 +67,7 @@
     "USER_IMAGES": {
       "description": "Insert your bot image url here",
       "required": false,
-      "value": ""
+      "value": "https://c8.alamy.com/comp/DGE2R9/computer-bugs-on-keyboard-concept-of-computer-bug-computer-virus-infection-DGE2R9.jpg"
     },
     "AUTO_READ_STATUS": {
       "description": "Fill the value true if you want bot view your Statuses.",
@@ -95,7 +95,7 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "254737991043"
+      "value": "254112386921"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
@@ -107,12 +107,12 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "𝐕𝐄𝐍𝐎𝐌 𝐌𝐃",
+      "value": "𝐕𝐄𝐍𝐎𝐌 𝐌𝐃🕷️📱🕷️🥷☣️🕸️🏴‍☠️",
       "required": false
     },
     "PACK_AUTHER": {
       "description": "Put Sticker Author_Name.",
-      "value": "𝐕𝐄𝐍𝐎𝐌 𝐌𝐃",
+      "value": "𝐕𝐄𝐍𝐎𝐌 𝐌𝐃🗽📱🕷️📱🕷️🕷️🕷️🥷☣️🏴‍☠️",
       "required": false
     }
   },
